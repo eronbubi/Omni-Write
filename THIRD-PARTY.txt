@@ -1,0 +1,18 @@
+Convegent Write Omni embeds the unmodified LibreOffice Writer engine.
+LibreOffice is developed by The Document Foundation and its contributors.
+
+LibreOffice version bundled with this release: 26.8.3.1
+The relevant licence texts and notices are included in office/LICENSE.html,
+office/license.txt, office/NOTICE and the bundled component directories.
+
+Corresponding source code for LibreOffice 26.8.3.1:
+https://download.documentfoundation.org/libreoffice/src/26.8.3/libreoffice-26.8.3.1.tar.xz
+https://download.documentfoundation.org/libreoffice/src/26.8.3/libreoffice-dictionaries-26.8.3.1.tar.xz
+https://download.documentfoundation.org/libreoffice/src/26.8.3/libreoffice-help-26.8.3.1.tar.xz
+https://download.documentfoundation.org/libreoffice/src/26.8.3/libreoffice-translations-26.8.3.1.tar.xz
+
+LibreOffice licence details:
+https://www.libreoffice.org/licenses/
+
+The application uses Python and Tcl/Tk. Their runtime notices are distributed
+with the packaged Python application.
